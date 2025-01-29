@@ -1,22 +1,51 @@
-# Hi there! I'm Taki 👋
+# Hi there! I'm **Taki** 👋  
 
-Welcome to my GitHub profile! I'm an undergraduate student majoring in Electrical and Computer Engineering. I'm passionate about technology, engineering, and innovation, and I love diving into new fields to explore and learn. Here's a little bit about me:
+Welcome to my GitHub profile! I'm an **Electrical and Computer Engineering** undergraduate at [**RUET**](https://www.ruet.ac.bd/), passionate about **technology, engineering, and innovation**. I enjoy diving into new fields, exploring cutting-edge topics, and building exciting projects.  
 
-## 🚀 About Me
-- 🎓 **Undergraduate student** in Electrical and Computer Engineering at RUET
-- 💻 Currently working on projects related to **Blockchain technology**, **Custom Hardware Engineering**, and **AI-driven EDA tools**
-- 🔍 Exploring **Blockchain** and its applications, and diving into the world of **Cryptocurrencies** and **Smart Contracts**
-- 🧑‍💻 Fascinated by **hardware design** with a focus on **chips, ICs, and PCBs** in my academic work
-- 🌱 Always learning and improving in fields like **Machine Learning**, **Embedded Systems**, and **Digital Circuit Design**
-  
-## 🛠️ Technologies I Work With
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white), C++, ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- **Hardware**: FPGA, Arduino
-- **Software**: NI Multisim, LTSpice and more
+---
 
-## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talha-taki-b13069253/)
-- 💬 Reach out to me via [t123alha@gmail.com]
+## 🚀 **About Me**  
+- 🎓 **Undergraduate student** in **Electrical and Computer Engineering** at **RUET**  
+- 💻 Working on **Blockchain Technology**, **Custom Hardware Engineering**, and **AI-driven EDA Tools**  
+- 🔍 Exploring **Blockchain**, **Cryptocurrencies**, and **Smart Contracts**  
+- 🧑‍💻 Passionate about **Hardware Design**: **Chips, ICs, and PCBs**  
+- 🌱 Constantly learning **Algorithms & Data Structures**, **Machine Learning**, **Control Systems**, and **Circuit Design**
+- 🧠 **Ardent Competitive Programmer** on [**Codeforces**](https://codeforces.com/profile/Stranger321) 
 
+---
+
+## 🛠️ **Technologies I Work With**  
+### 🖥️ **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)  
+
+### 🔧 **Hardware & Software**  
+![FPGA](https://img.shields.io/badge/FPGA-%2300979D.svg?style=flat&logo=intel&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=mathworks&logoColor=white)  
+![NI Multisim](https://img.shields.io/badge/Multisim-%230A66C2.svg?style=flat&logo=ni&logoColor=white)  
+![LTSpice](https://img.shields.io/badge/LTSpice-%23EE3F24.svg?style=flat&logo=analogdevices&logoColor=white)  
+
+---
+
+## 🎯 **Fields of Interest**  
+- 🧬 **Quantum Computing**  
+- 🧫 **Bioinformatics**  
+- 🏗️ **Large System Simulation**  
+- 📝 **Linguistics**  
+
+---
+
+## 🌍 **Let's Connect!**  
+<a href="https://x.com/Talha_Taki" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
+</a>  
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>  
+<a href="https://www.linkedin.com/in/talha-taki-b13069253/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+
+---
