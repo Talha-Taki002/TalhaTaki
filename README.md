@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I'm an **Electrical and Computer Engineering** und
 <a href="https://x.com/Talha_Taki" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>  
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<a href="https://discord.com/users/talha9998591
+" target="_blank">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>  
 <a href="https://www.linkedin.com/in/talha-taki-b13069253/" target="_blank">
