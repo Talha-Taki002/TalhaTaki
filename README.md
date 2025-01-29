@@ -1,6 +1,6 @@
 # Hi there! I'm **Taki** 👋  
 
-Welcome to my GitHub profile! I'm an undergraduate at [**RUET**](https://www.ruet.ac.bd/), passionate about **technology, engineering, and innovation**. I enjoy diving into new fields, exploring cutting-edge topics, and building exciting projects.  
+Welcome to my GitHub profile! I'm an undergraduate student at [**RUET**](https://www.ruet.ac.bd/), passionate about **technology, engineering, and innovation**. I enjoy diving into new fields, exploring cutting-edge topics, and building exciting projects.  
 
 ---
 
